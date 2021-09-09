@@ -1,0 +1,21 @@
+body {
+    background-color: darkgray;
+    color:indigo;
+}
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    font-weight: 100;
+    font-style: italic;
+    line-height: 30px;
+}
+ol li {
+    background: white;
+    padding: 8px 16px 24px 16px;
+    margin-bottom: 4px;
+    float: left;
+    width: 30%;
+}
+ul li.item{
+    background: blue;
+}
